@@ -1,6 +1,35 @@
 <p align="center">
   <img width="200" height="200" src="https://github.com/usmankhi18/PluginsApp/blob/master/resources/icon.png">
 </p>
+
+Installation:
+
+    ionic plugin add https://github.com/usmankhi18/Plugins.git
+
+
+Supported Platforms:
+
+    Android
+    iOS
+
+
+Plugin usage:
+
+          activity()
+          {
+              let data = {param1: "Android Activity"}
+              this.plugins.activity(data).then(result => {
+                                }).catch(err => alert("Error : " + err));
+          }
+          camera()
+          {
+              let data = {param1: "Camera"}
+              this.plugins.camera(data).then(result => {
+                                }).catch(err => alert("Error : " + err));
+          }
+            
+Create Plugin Process:            
+
 1. Install Node JS
     https://nodejs.org/en/
 
