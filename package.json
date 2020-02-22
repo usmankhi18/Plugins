@@ -1,0 +1,27 @@
+{
+  "name": "plugins",
+  "version": "1.0.0",
+  "description": "This is Plugins plugin for learning purpose, created by : M.Usman Khan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usmankhi18/Plugins.git"
+  },
+  "keywords": [
+    "Usman",
+    "Ionic",
+    "Plugins",
+    "cordova",
+    "plugin"
+  ],
+  "author": "M.Usman Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usmankhi18/Plugins/issues"
+  },
+  "homepage": "https://github.com/usmankhi18/Plugins#readme",
+  "dependencies": {}
+}
