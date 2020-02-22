@@ -10,7 +10,6 @@ Installation:
 Supported Platforms:
 
     Android
-    iOS
 
 
 Plugin usage:
